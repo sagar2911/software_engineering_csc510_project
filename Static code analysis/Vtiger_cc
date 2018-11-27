@@ -1,0 +1,50 @@
+Executing system analyzes...
+
+LOC
+    Lines of code                               548789
+    Logical lines of code                       401320
+    Comment lines of code                       147537
+    Average volume                              1228.87
+    Average comment weight                      22.14
+    Average intelligent content                 22.14
+    Logical lines of code by class              84
+    Logical lines of code by method             23
+
+Object oriented programming
+    Classes                                     4769
+    Interface                                   20
+    Methods                                     17619
+    Methods by class                            3.69
+    Lack of cohesion of methods                 1.82
+    
+Coupling
+    Average afferent coupling                   2.38
+    Average efferent coupling                   2.72
+    Average instability                         0.74
+    Depth of Inheritance Tree                   1.35
+    
+Package
+    Packages                                    93
+    Average classes per package                 51.92
+    Average distance                            0.26
+    Average incoming class dependencies         19.1
+    Average outgoing class dependencies         8.68
+    Average incoming package dependencies       3.27
+    Average outgoing package dependencies       3.28
+
+Complexity
+    Average Cyclomatic complexity by class      11.72
+    Average Weighted method count by class      18.3
+    Average Relative system complexity          158.97
+    Average Difficulty                          7.68
+    
+Bugs
+    Average bugs by class                       0.41
+    Average defects by class (Kan)              0.81
+
+Violations
+    Critical                                    0
+    Error                                       1108
+    Warning                                     803
+    Information                                 400
+
